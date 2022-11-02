@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['+94705167243'] // owner number
+global.ownername = "😜Shanuka Indrajith ❯❯" // owner name
+global.ytname = "" // 💨ශනු💨 bot 💨
+global.socialm = "GitHub: reddragon with=shanu" // github or insta name
+global.location = "Srilanka,Mathugama, AAgalawaththa" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,19 +47,19 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94705167243']
+global.ownertag = '+94705167243' //your tag number
+global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 𝙒𝙄𝙏𝙃 𝙈𝙍.𝙎𝙃𝘼𝙉𝙐 - 𝘉𝘖𝘛' //ur bot name
+global.packname = "𝙎𝙃𝘼𝙉𝙐 😂 Sticker" // sticker packname
+global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 𝙒𝙄𝙏𝙃 𝙈𝙍.𝙎𝙃𝘼𝙉𝙐" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium =['+94753407246'] //ur premium numbers
 
 //other
-global.sessionName = 'session'
+global.sessionName = '𝙍𝙀𝘼𝙇 𝙎𝙃𝘼𝙉𝙐𝙒𝘼😂'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
@@ -122,7 +122,7 @@ global.rkyt = []
 global.wlcm = []
 global.gcrevoke = []
 global.autorep = []
-global.ntilink = []
+global.ntilink = [https://chat.whatsapp.com/KFiQL4qXt62FQB4H094iSa]
 
 
 
